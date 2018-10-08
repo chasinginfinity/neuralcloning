@@ -6,7 +6,7 @@ Transfer motion from one video input to render a new one.
 USe pose-estimation to transfer motion from source to target.
 
 ## Face Cloning  
-Transfering face emotions from one face to another.
+Transfering face emotions from one face to another using DCGAN.
 
 ## Voice Cloning  
 
